@@ -21,6 +21,10 @@ h2 {
     font-family: monospace;
 }
 
+h2 {
+    font-size: 15px;
+}
+
 img {
     display: block;
     height: 50px;
